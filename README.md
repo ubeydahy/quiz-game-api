@@ -71,7 +71,7 @@ Follow these exact steps to run the API on your machine:
    uvicorn app.main:app --reload
    ```
 
-7. **Start the Frontend (Optional but Recommended):**
+7. **Start the Frontend:**
    Open a *second* terminal, navigate to the `Frontend` folder, and start a simple web server:
    ```bash
    cd Frontend
