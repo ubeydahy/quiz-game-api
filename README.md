@@ -15,8 +15,6 @@ Most quizzes are static and boring. Managing a dynamic question bank, tracking u
 *   **Dynamic Quiz Engine:** Users can start customized quizzes filtered by specific difficulty levels and question counts.
 *   **Instant Server-Side Grading:** Answers are securely evaluated on the server, returning a percentage, grade, and a review of incorrect answers.
 *   **Global Leaderboard:** Automatically tracks and ranks the top-performing players based on their scores.
-*   **Interactive Frontend Included:** A beautiful, "Next Level" dark-mode Glassmorphism frontend that seamlessly connects to the API.
-
 ---
 
 ## Demo
